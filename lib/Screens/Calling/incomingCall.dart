@@ -163,7 +163,7 @@ class _IncomingState extends State<Incoming> with TickerProviderStateMixin {
                                                       ),
                                                       Text(
                                                         getTranslated(context,
-                                                            'enable_to_load'),
+                                                            'unable_to_load'),
                                                         style: TextStyle(
                                                           color: Colors.black,
                                                         ),
