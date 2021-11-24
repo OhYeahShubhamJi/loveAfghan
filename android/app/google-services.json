@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "365463760834",
+    "firebase_url": "https://loveafghan-de2aa-default-rtdb.firebaseio.com",
+    "project_id": "loveafghan-de2aa",
+    "storage_bucket": "loveafghan-de2aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365463760834:android:45838076b9863b1d60b05b",
+        "android_client_info": {
+          "package_name": "com.loveafghan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "365463760834-ku0mpo30ge06lmvk3r898356irc02nd1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.loveafghan",
+            "certificate_hash": "43ee62fc411791ee88fe0db409502bf7fcb6a13c"
+          }
+        },
+        {
+          "client_id": "365463760834-a3unuhr0rfth5vgg3qquedsr8omv5cmu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBa6dCaOVWiz_c2YtOlyBHSReJJK24EL24"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "365463760834-a3unuhr0rfth5vgg3qquedsr8omv5cmu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "365463760834-b7mvo9pkl1lcjqr8nb8a5798pu866jh6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.loveafghan"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>365463760834-b7mvo9pkl1lcjqr8nb8a5798pu866jh6.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.365463760834-b7mvo9pkl1lcjqr8nb8a5798pu866jh6</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>365463760834-ku0mpo30ge06lmvk3r898356irc02nd1.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBV_7Zcnv30t4vYB6vOXl9L_bT_wfvrrhM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>365463760834</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.loveafghan</string>
+	<key>PROJECT_ID</key>
+	<string>loveafghan-de2aa</string>
+	<key>STORAGE_BUCKET</key>
+	<string>loveafghan-de2aa.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:365463760834:ios:f19bc6cb5f3d847e60b05b</string>
+</dict>
+</plist>
