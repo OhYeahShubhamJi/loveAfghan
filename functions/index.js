@@ -51,7 +51,7 @@ exports.sendChatNotification = functions.firestore
         console.log(userIdTo.data().pushToken);
         const payload = {
             notification: {
-                title: contentType === 'Call' ? `Call from ${userIdFrom.data().UserName}` : contentType === 'req' ? `${userIdFrom.data().UserName} wants to call you!` : `You have a message from ${userIdFrom.data().UserName}`,
+                title: contentType === 'Call' ? `You have missed a Call from  ${userIdFrom.data().UserName}` : contentType === 'req' ? `${userIdFrom.data().UserName} wants to call you!` : `You have a message from ${userIdFrom.data().UserName}`,
                 body: contentMessage,
                 badge: '1',
                 sound: 'default'
